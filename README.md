@@ -7,4 +7,4 @@
   
  #
  <p>The back-end side of the app is written with Node.js && MongoDB</p>
- <p>To use your own MongoDB Cluster, then assign your connection uri into <code>node-todo/config/db-setup.js</code> file to <code>mongoDbUrl</code> variable
+ <p>To use your own MongoDB Cluster, assign your connection uri into <code>node-todo/config/db-setup.js</code> file to <code>mongoDbUrl</code> variable
